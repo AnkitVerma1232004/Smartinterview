@@ -1,7 +1,6 @@
 # leetcode 448
 
 - brueforce
-## optimal
 - binary search (using sort and the search flag value)
 - set
 - count array
@@ -10,6 +9,6 @@
 ---
 # leetcode 1365
 - bruteforce
-- count array o(n) o(1) and prefix
+- count array and prefix
 
 # leetcode 1266
