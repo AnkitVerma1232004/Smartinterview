@@ -1,15 +1,24 @@
-# leetcode 448
+# Leetcode 448 - Find All Numbers Disappeared in an Array  
+[Link to Problem](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/)
 
-- brueforce
-- binary search (using sort and the search flag value)
-- set
-- count array
-- swaping correct position [4,3,2,7,8,2,3,1] a[a[i]-1]
-- negitive value -1*abs(a[i])
+### Approaches:
+- Brute Force
+- Binary Search (after sorting + search for each value)
+- Set for presence checking
+- Count Array (frequency or prefix sum)
+- Swapping to correct positions (`a[a[i] - 1]`)
+- Negative marking trick (`a[abs(a[i]) - 1] *= -1`)
+
 ---
-# leetcode 1365
-- bruteforce
-- count array and prefix
+
+# Leetcode 1365 - How Many Numbers Are Smaller Than the Current Number  
+[Link to Problem](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/)
+
+### Approaches:
+- Brute Force (compare each with others)
+- Count Array + Prefix Sum (optimized)
+
 ---
-# leetcode 1266
-[google](https://www.google.com/)
+
+# Leetcode 1266 - Minimum Time Visiting All Points  
+[Link to Problem](https://leetcode.com/problems/minimum-time-visiting-all-points/)
