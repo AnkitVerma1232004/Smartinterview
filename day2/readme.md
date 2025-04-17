@@ -1,7 +1,7 @@
 # leetcode 448
 
 - brueforce
-### optimal
+## optimal
 - binary search (using sort and the search flag value)
 - set
 - count array
