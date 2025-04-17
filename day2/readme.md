@@ -12,3 +12,4 @@
 - count array and prefix
 ---
 # leetcode 1266
+[google](https://www.google.com/)
