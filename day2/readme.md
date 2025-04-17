@@ -4,8 +4,8 @@
 ### Approaches:
 - Brute Force
 - Binary Search (after sorting + search for each value)
-- Set for presence checking
-- Count Array (frequency or prefix sum)
+- Set for presence checking(searching constant time)
+- Count Array (frequency then prefix sum)
 - Swapping to correct positions (`a[a[i] - 1]`)
 - Negative marking trick (`a[abs(a[i]) - 1] *= -1`)
 
