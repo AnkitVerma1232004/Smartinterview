@@ -1,5 +1,5 @@
 # Leetcode Missing Number  
-<a href="https://leetcode.com/problems/missing-number/" target="_blank">Link to Problem</a>
+[Link to Problem](https://leetcode.com/problems/missing-number/)
 
 ### Approaches:
 - Brute Force (iterate and check each element)
@@ -9,7 +9,7 @@
 ---
 
 # Leetcode Two Sum  
-<a href="https://leetcode.com/problems/two-sum/" target="_blank">Link to Problem</a>
+[Link to Problem](https://leetcode.com/problems/two-sum/)
 
 ### Approaches:
 - Brute Force (nested loops to check pairs)
@@ -18,7 +18,7 @@
 ---
 
 # Leetcode Duplicate Elements  
-<a href="https://leetcode.com/problems/contains-duplicate/" target="_blank">Link to Problem</a>
+[Link to Problem](https://leetcode.com/problems/contains-duplicate/)
 
 ### Approaches:
 - Brute Force (nested loops to check duplicates)
