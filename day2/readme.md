@@ -10,5 +10,5 @@
 # leetcode 1365
 - bruteforce
 - count array and prefix
-
+---
 # leetcode 1266
