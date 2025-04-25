@@ -7,3 +7,5 @@
 [Link to Problem](https://leetcode.com/problems/design-linked-list/description/)
 ### Approach
 - Brute Force
+# 237 - Delete Node in a Linked List
+[Link to Problem](https://leetcode.com/problems/delete-node-in-a-linked-list/)
