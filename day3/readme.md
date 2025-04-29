@@ -9,3 +9,7 @@
 - Brute Force
 # 237 - Delete Node in a Linked List
 [Link to Problem](https://leetcode.com/problems/delete-node-in-a-linked-list/)
+# GFG - Search in Linked List
+[Link to Problem](https://www.geeksforgeeks.org/problems/search-in-linked-list-1664434326/0)
+### Approach
+-brute Force
