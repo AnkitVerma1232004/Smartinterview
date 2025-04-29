@@ -7,7 +7,12 @@
 [Link to Problem](https://leetcode.com/problems/design-linked-list/description/)
 ### Approach
 - Brute Force
-# 237 - Delete Node in a Linked List
+# Leetcode 237 - Delete Node in a Linked List
 [Link to Problem](https://leetcode.com/problems/delete-node-in-a-linked-list/)
 ### Approach:
 - Brute Force
+# GFG - Count Linked List Nodes
+[Link to Problem](https://www.geeksforgeeks.org/problems/count-nodes-of-linked-list/0)
+### Approach
+- Brute Force
+
