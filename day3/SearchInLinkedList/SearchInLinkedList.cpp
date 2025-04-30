@@ -1,5 +1,6 @@
 #include <iostream>
 using namespace std;
+// Brute Force linear Search
 
 struct Node {
     int data;

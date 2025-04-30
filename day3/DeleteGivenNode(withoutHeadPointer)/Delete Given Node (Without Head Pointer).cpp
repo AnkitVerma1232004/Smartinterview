@@ -1,6 +1,6 @@
 #include <iostream>
 using namespace std;
-
+// Brute Force 
 /**
  * Definition for singly-linked list.
  */

@@ -1,6 +1,6 @@
 #include <iostream>  
 using namespace std;
-
+// Brute Force 
 class MyLinkedList {
 public:
     class Node {

@@ -1,7 +1,7 @@
 # Leetcode 1266 - Minimum Time Visiting All Points  
 [Link to Problem](https://leetcode.com/problems/minimum-time-visiting-all-points/)
 
-### Approaches:
+### Approach:
 - Brute Force
 # Leetcode 707 - Design Linked List
 [Link to Problem](https://leetcode.com/problems/design-linked-list/description/)
@@ -20,3 +20,8 @@
 [Link to Problem](https://www.geeksforgeeks.org/problems/search-in-linked-list-1664434326/0)
 ### Approach
 -brute Force
+# Leetcode 876 - Middle of the Linked List
+[Link to Problem](https://leetcode.com/problems/middle-of-the-linked-list/)
+### Approaches
+- Brute Force
+- Floyd’s Tortoise and Hare Algorithm

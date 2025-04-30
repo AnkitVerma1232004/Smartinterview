@@ -1,6 +1,6 @@
 #include <iostream>
 using namespace std;
-
+// Brute Force
 /* Link list node */
 struct Node {
     int data;
