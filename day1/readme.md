@@ -1,4 +1,4 @@
-# Leetcode Missing Number  
+# Leetcode 268 - Missing Number
 [Link to Problem](https://leetcode.com/problems/missing-number/)
 
 ### Approaches:
@@ -8,7 +8,7 @@
 
 ---
 
-# Leetcode Two Sum  
+# Leetcode 1 - Two Sum  
 [Link to Problem](https://leetcode.com/problems/two-sum/)
 
 ### Approaches:
@@ -17,7 +17,7 @@
 
 ---
 
-# Leetcode Duplicate Elements  
+# Leetcode 217 - Contains Duplicate
 [Link to Problem](https://leetcode.com/problems/contains-duplicate/)
 
 ### Approaches:
