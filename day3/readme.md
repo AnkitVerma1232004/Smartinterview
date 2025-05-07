@@ -38,3 +38,5 @@
 # Leetcode 206 - Reversing linked list
 [Link to problem](https://leetcode.com/problems/reverse-linked-list/description/)
 ### Approach
+- Iterative 
+- Recursive 
