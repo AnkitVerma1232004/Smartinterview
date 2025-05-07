@@ -57,3 +57,10 @@
 [Link to Problem](https://leetcode.com/problems/remove-duplicates-from-sorted-list/description/)
 ### Approach
 - Brute Force (Iterative)
+
+# Leetcode 21 - Merge Two Sorted Lists
+[Link to Problem](https://leetcode.com/problems/merge-two-sorted-lists/description/)
+### Approach
+- Iteratively create a new linked list
+- Iterative create link to the two list using Dummy Node
+ 
