@@ -52,3 +52,8 @@
 ### Approaches
 - Brute Force (copy list values to array, check with two pointers)
 - Two-Pointer + In-Place Reverse
+
+# Leetcode 83 - Remove Duplicates from Sorted List
+[Link to Problem](https://leetcode.com/problems/remove-duplicates-from-sorted-list/description/)
+### Approach
+- Brute Force (Iterative)
