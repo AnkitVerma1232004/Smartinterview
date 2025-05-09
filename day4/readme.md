@@ -1,3 +1,3 @@
 merging two list 
-mersort of linked list
+mergesort of linked list
 kgroup
